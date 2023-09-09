@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "bbcnews",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Ukraine war: Sergei Surovikin 'seen in first photo' since Wagner mutiny",
+      "description": "Sergei Surovikin, a former commander in Ukraine, had not been seen in public since the Wagner mutiny.",
+      "url": "http://www.bbc.co.uk/news/worldeurope66713519",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6AF2/production/_130987372_mediaitem130986700.jpg",
+      "publishedAt": "20230905T10:37:19.7169477Z",
+      "content": "A photo posted online appears to show a Russian general who has not been seen in public since a mutiny by the Wagner mercenary group in June.\r\nSergei Surovikin is said to have been close to Wagner bo… [+1855 chars]"
+    },
+    {
+      "source": {
+        "id": "bbcnews",
+        "name": "BBC News"
+      },
+      "author": "BBC Sport",
+      "title": "Criticism over Saudi move 'really hurt'  Henderson",
+      "description": "England midfielder Jordan Henderson says criticism of his move to Saudi Arabian club AlEttifaq \"really hurt\".",
+      "url": "http://www.bbc.co.uk/sport/football/66714875",
+      "urlToImage": "https://ichef.bbci.co.uk/liveexperience/cps/624/cpsprodpb/0B3E/production/_130987820_gettyimages1644742425.jpg",
+      "publishedAt": "20230905T10:22:22.5280915Z",
+      "content": "Jordan Henderson made 492 appearances for Liverpool before his summer move to AlEttifaq\r\nEngland midfielder Jordan Henderson says he was \"really hurt\" after being criticised for joining AlEttifaq.\r… [+4489 chars]"
+    },
+    {
+      "source": {
+        "id": "bbcnews",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Cuba uncovers RussiaUkraine war trafficking ring",
+      "description": "Cuban officials say a human trafficking ring is recruiting Cubans to fight in the war in Ukraine.",
+      "url": "http://www.bbc.co.uk/news/worldlatinamerica66715773",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8E92/production/_130989463_gettyimages1252014281.jpg",
+      "publishedAt": "20230905T10:22:18.9039944Z",
+      "content": "The Cuban foreign ministry says it has uncovered a human trafficking ring aimed at recruiting Cubans to fight for Russia in its war in Ukraine.\r\nIt said that Cubans living in Russia and \"even some in… [+1734 chars]"
+    },
+    {
+      "source": {
+        "id": "bbcnews",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Jill Biden: US first lady tests positive for Covid19",
+      "description": "She is experiencing mild symptoms, the White House says, while President Joe Biden tested negative.",
+      "url": "http://www.bbc.co.uk/news/worlduscanada66715421",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4F4A/production/_130989202_gettyimages1640867250.jpg",
+      "publishedAt": "20230905T09:37:23.4039567Z",
+      "content": "US First Lady Jill Biden tested positive for Covid19 on Monday evening and is experiencing mild symptoms, the White House says.\r\nThe 72yearold, who is vaccinated and has received boosters, will st… [+1112 chars]"
+    },
+    {
+      "source": {
+        "id": "bbcnews",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "How worrying is a RussiaKim Jong Un alliance?",
+      "description": "An arms deal between North Korea and Russia could suit both sides, and allow them to work more closely.",
+      "url": "http://www.bbc.co.uk/news/worldasia66714546",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4AF4/production/_130988191_gettyimages1139184633.jpg",
+      "publishedAt": "20230905T09:07:22.3289452Z",
+      "content": "North Korean leader Kim Jong Un's reported plans to visit Russia this month have caused concern among the US and its allies.\r\nHe and President Vladimir Putin intend to discuss the possibility of Nort… [+5171 chars]"
+    },
+    {
+      "source": {
+        "id": "bbcnews",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Venice: Scuffles occur outside Woody Allen film premiere",
+      "description": "The protesters chanted \"no rape culture\" as they attempted to get on to the red carpet at the Venice Film Festival.",
+      "url": "http://www.bbc.co.uk/news/entertainmentarts66710299",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CB6E/production/_130987025_p0gbpcp7.jpg",
+      "publishedAt": "20230905T07:07:19.3991122Z",
+      "content": "Scuffles broke out at the Venice Film Festival premiere of Woody Allen's film Coup De Chance.\r\nThe protesters chanted \"no rape culture\" as they attempted to get on to the red carpet, before being led… [+162 chars]"
+    },
+    {
+      "source": {
+        "id": "bbcnews",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "China's Great Wall damaged by workers looking for shortcut",
+      "description": "Part of the wall running through China's Shanxi province was dug open, causing severe damage.",
+      "url": "http://www.bbc.co.uk/news/worldasiachina66714547",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6C1E/production/_130987672_mediaitem130987668.jpg",
+      "publishedAt": "20230905T06:37:14.3200362Z",
+      "content": "A part of China's Great Wall has been severely damaged by construction workers in central Shanxi province, who used an excavator to dig through it. \r\nPolice say two men are suspected of trying to cre… [+1442 chars]"
+    },
+    {
+      "source": {
+        "id": "bbcnews",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Ukraine's Olena Zelenska tells of war's impact on family life",
+      "description": "In a highly personal interview, the first lady says she needs \"my husband, not a historical figure, by my side\".",
+      "url": "http://www.bbc.co.uk/news/worldeurope66711845",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/394C/production/_130986641_045a4107.jpg",
+      "publishedAt": "20230905T05:07:20.5233296Z",
+      "content": "Ukraine's first lady Olena Zelenska has told the BBC of the emotional impact Russia's invasion and the resulting war has had on her family.\r\nIn a highly personal interview, she said it was hard to se… [+3180 chars]"
+    },
+    {
+      "source": {
+        "id": "bbcnews",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Kim Jong Un to visit Putin in Russia for arms talks",
+      "description": "N Korea's Kim Jong Un plans to meet Vladimir Putin in Russia for talks on supplying weapons to use in Ukraine, US official tells BBC US partner CBS",
+      "url": "http://www.bbc.co.uk/news/worldasia66713476",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breakinglargepromonc.png",
+      "publishedAt": "20230904T20:52:15.9454236Z",
+      "content": "North Korea's Kim Jong Un plans to travel to Russia this month to meet President Vladimir Putin, a US official has told the BBC's US partner CBS.\r\nThe two leaders will discuss the possibility of Nort… [+970 chars]"
+    },
+    {
+      "source": {
+        "id": "bbcnews",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Burning Man: Revellers begin to leave as boggy conditions improve",
+      "description": "Revellers are able to leave the desert festival after heavy rain made the ground too muddy to drive on.",
+      "url": "http://www.bbc.co.uk/news/worlduscanada66704749",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/32BB/production/_130978921_gettyimages1643706950.jpg",
+      "publishedAt": "20230904T08:22:15.3675486Z",
+      "content": "Weather conditions at the Burning Man festival in the US have eased enough to allow revellers to start leaving.\r\nHeavy rain had turned the event, held in a desert in Nevada, into a mud bath.\r\nThe gro… [+3202 chars]"
+    }
+  ]
+}
